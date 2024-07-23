@@ -1,10 +1,10 @@
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/c96f75fb-4317-4bfe-8f91-a36e3c322fcf">
 
 ## Customer Retention Heatmap for E-Comme
-This repository hosts a Python script designed to generate a Customer Retention Heatmap for an E-commerce company, illustrating the retention rates over time. Utilizing transaction data from Kaggle, the script provided in this repository allows for a visual understanding of customer loyalty and retention
+This repository hosts a Python script designed to generate a Customer Retention Heatmap for an E-commerce company, illustrating the retention rates over time. This script provided in this repository allows for a visual understanding of customer loyalty and retention
 
 ## Data
-The dataset for this analysis is obtained from Kaggle, specifically aimed at providing marketing insights for E-commerce businesses. You can find the dataset [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company.
+The dataset for this analysis is obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company.
 
 ## Project Purpo
 Retention Analysis: Use
