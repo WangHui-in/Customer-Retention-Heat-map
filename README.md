@@ -6,18 +6,16 @@ This repository hosts a Python script designed to generate a Customer Retention 
 ## Data
 The dataset for this analysis is obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company.
 
-
-## Data Loading and Preprocessing:
-
-1. Import transaction data from the specified dataset.
+1.Data Loading and Preprocessing:
+Import transaction data from the specified dataset.
 Prepare data by extracting necessary attributes like purchase dates and customer IDs.
-Cohort Analysis:
 
-2. Define cohorts based on the customers' first purchase date.
+2.Cohort Analysis:
+Define cohorts based on the customers' first purchase date.
 Track subsequent transactions of the customers within these cohorts over time.
-Heatmap Generation:
 
-3. Calculate retention rates for each cohort.
+3.Heatmap Generation:
+Calculate retention rates for each cohort.
 Generate a heatmap using Python's seaborn and matplotlib libraries to visually display these retention rates over time.
 
 ## Features
