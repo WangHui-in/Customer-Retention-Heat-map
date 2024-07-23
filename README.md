@@ -6,6 +6,9 @@ This repository hosts a Python script designed to generate a Customer Retention 
 ## Data
 The dataset for this analysis is obtained from Kaggle. You can find the dataset [here](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company.
 
+## Code Description
+The Heat map.py script processes customer transaction data to produce heatmaps that represent customer retention rates. Here's what the script does:
+
 1.Data Loading and Preprocessing:
 Import transaction data from the specified dataset.
 Prepare data by extracting necessary attributes like purchase dates and customer IDs.
