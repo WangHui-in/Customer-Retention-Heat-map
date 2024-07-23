@@ -1,6 +1,6 @@
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/c96f75fb-4317-4bfe-8f91-a36e3c322fcf">
 
-## Customer Retention Heatmap for E-Comme
+## Customer Retention Heatmap for E-Commerce
 This repository hosts a Python script designed to generate a Customer Retention Heatmap for an E-commerce company, illustrating the retention rates over time. This script provided in this repository allows for a visual understanding of customer loyalty and retention
 
 ## Data
